@@ -1,3 +1,8 @@
 person:
   name:
     first_name: Stig
+    last_name: Larsson
+  age: 78
+  class: DevOps
+  start_year: 1981
+  hobbies: knitting
