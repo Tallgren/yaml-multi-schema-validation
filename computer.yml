@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: Lenovo
     cores: 8
+    frequency: 60
+  memory:
+    manufacturer: Mcdonnalds
+    size: 32
+    type: DDR3
+  disk:
+    manufacturer: Mcdonnalds
+    size: 2
+    type: SSD
