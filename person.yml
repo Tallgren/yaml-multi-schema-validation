@@ -5,4 +5,5 @@ person:
   age: 78
   class: DevOps
   start_year: 1981
-  hobbies: knitting
+  hobbies: 
+    - knitting
