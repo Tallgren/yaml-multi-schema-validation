@@ -1,2 +1,7 @@
 car:
   manufacturer: volvo
+  model: Ax70
+  year: "1998"
+  attributes:
+    - Horn
+  reg: ABC123
